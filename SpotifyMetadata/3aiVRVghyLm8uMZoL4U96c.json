@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uyfNVcLdHdMfoUXh4BI7t"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uyfNVcLdHdMfoUXh4BI7t",
+      "id" : "6uyfNVcLdHdMfoUXh4BI7t",
+      "name" : "Ray Bryant Trio",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uyfNVcLdHdMfoUXh4BI7t"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0tXuFFeWJN10Rj216MvvzT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0tXuFFeWJN10Rj216MvvzT",
+    "id" : "0tXuFFeWJN10Rj216MvvzT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4fc69e02d6daea025454c8a0e291b96fcc58d226",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fb1518ef7eaf9febddc41d0a505187ff8beeeb7b",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/087a302ca0cefe8ea30cf1a92e40525a4641900c",
+      "width" : 64
+    } ],
+    "name" : "Ray Bryant Trio Plays the Complete Little Susie",
+    "release_date" : "2007-01-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 14,
+    "type" : "album",
+    "uri" : "spotify:album:0tXuFFeWJN10Rj216MvvzT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6uyfNVcLdHdMfoUXh4BI7t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6uyfNVcLdHdMfoUXh4BI7t",
+    "id" : "6uyfNVcLdHdMfoUXh4BI7t",
+    "name" : "Ray Bryant Trio",
+    "type" : "artist",
+    "uri" : "spotify:artist:6uyfNVcLdHdMfoUXh4BI7t"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 309226,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ADA010822305"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3aiVRVghyLm8uMZoL4U96c"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3aiVRVghyLm8uMZoL4U96c",
+  "id" : "3aiVRVghyLm8uMZoL4U96c",
+  "is_local" : false,
+  "name" : "Blue Monk",
+  "popularity" : 35,
+  "preview_url" : "https://p.scdn.co/mp3-preview/9de2b659640776c453332611cac15bd2fdd4e447?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:3aiVRVghyLm8uMZoL4U96c"
+}

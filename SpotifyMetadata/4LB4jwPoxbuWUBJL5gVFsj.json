@@ -1,0 +1,87 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6xkwfOyFlcsZkf6jG3wxxb",
+      "id" : "6xkwfOyFlcsZkf6jG3wxxb",
+      "name" : "Michael Daves",
+      "type" : "artist",
+      "uri" : "spotify:artist:6xkwfOyFlcsZkf6jG3wxxb"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PL", "PT", "PY", "QA", "RO", "SA", "SE", "SK", "SV", "TN", "TR", "US", "UY", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3VjgTixt4HPjnwpu6Hrc4l"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3VjgTixt4HPjnwpu6Hrc4l",
+    "id" : "3VjgTixt4HPjnwpu6Hrc4l",
+    "images" : [ {
+      "height" : 557,
+      "url" : "https://i.scdn.co/image/c5759e54b67a3c6fd626786901a792d7ad95c458",
+      "width" : 639
+    }, {
+      "height" : 261,
+      "url" : "https://i.scdn.co/image/ceb39341f0b0f7d801b3059414ed2c1451482598",
+      "width" : 300
+    }, {
+      "height" : 56,
+      "url" : "https://i.scdn.co/image/52112aaafb5c2de7b67e4eb7f5c23513ceb7959c",
+      "width" : 64
+    } ],
+    "name" : "Sleep With One Eye Open",
+    "release_date" : "2011-05-06",
+    "release_date_precision" : "day",
+    "total_tracks" : 16,
+    "type" : "album",
+    "uri" : "spotify:album:3VjgTixt4HPjnwpu6Hrc4l"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6xkwfOyFlcsZkf6jG3wxxb",
+    "id" : "6xkwfOyFlcsZkf6jG3wxxb",
+    "name" : "Michael Daves",
+    "type" : "artist",
+    "uri" : "spotify:artist:6xkwfOyFlcsZkf6jG3wxxb"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HN", "HU", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PL", "PT", "PY", "QA", "RO", "SA", "SE", "SK", "SV", "TN", "TR", "US", "UY", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 220450,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO11100082"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4LB4jwPoxbuWUBJL5gVFsj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4LB4jwPoxbuWUBJL5gVFsj",
+  "id" : "4LB4jwPoxbuWUBJL5gVFsj",
+  "is_local" : false,
+  "name" : "Ookpik Waltz",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a0627ddd65a5ccaf1d13235bee671cee7fcfbe98?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4LB4jwPoxbuWUBJL5gVFsj"
+}

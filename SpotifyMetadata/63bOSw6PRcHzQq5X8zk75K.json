@@ -1,0 +1,87 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2vI9KFm0fwSfPrpEgOeIbq",
+      "id" : "2vI9KFm0fwSfPrpEgOeIbq",
+      "name" : "Brad Mehldau",
+      "type" : "artist",
+      "uri" : "spotify:artist:2vI9KFm0fwSfPrpEgOeIbq"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/12ubPehhX3Kf881G8a7Sb7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/12ubPehhX3Kf881G8a7Sb7",
+    "id" : "12ubPehhX3Kf881G8a7Sb7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7bcd52c05cc8cc0d7e12c004392558e1235722f0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/fc27974d9387eb44d7eeca55f927ee31b21b9e9c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/c0d40a039674ccc8a52e7a54302fc0ab0c8931b4",
+      "width" : 64
+    } ],
+    "name" : "Chris Thile & Brad Mehldau",
+    "release_date" : "2017-01-20",
+    "release_date_precision" : "day",
+    "total_tracks" : 11,
+    "type" : "album",
+    "uri" : "spotify:album:12ubPehhX3Kf881G8a7Sb7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2vI9KFm0fwSfPrpEgOeIbq",
+    "id" : "2vI9KFm0fwSfPrpEgOeIbq",
+    "name" : "Brad Mehldau",
+    "type" : "artist",
+    "uri" : "spotify:artist:2vI9KFm0fwSfPrpEgOeIbq"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 190053,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO11600987"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/63bOSw6PRcHzQq5X8zk75K"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/63bOSw6PRcHzQq5X8zk75K",
+  "id" : "63bOSw6PRcHzQq5X8zk75K",
+  "is_local" : false,
+  "name" : "Independence Day",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ec1ebc853fc0fead5a8c6a4c6ecdb5e5edb70f0d?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:63bOSw6PRcHzQq5X8zk75K"
+}

@@ -1,0 +1,87 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1qMgGon16RoDAfujk41Em0",
+      "id" : "1qMgGon16RoDAfujk41Em0",
+      "name" : "Darrell Scott",
+      "type" : "artist",
+      "uri" : "spotify:artist:1qMgGon16RoDAfujk41Em0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2nJQCVut36kUzDfy3eUZCM",
+      "id" : "2nJQCVut36kUzDfy3eUZCM",
+      "name" : "Tim O'Brien",
+      "type" : "artist",
+      "uri" : "spotify:artist:2nJQCVut36kUzDfy3eUZCM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3kM3Njr2PBRtCDY5xu1QcP"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3kM3Njr2PBRtCDY5xu1QcP",
+    "id" : "3kM3Njr2PBRtCDY5xu1QcP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/7082240cac3dcaf249428271be68f77cb82e051d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/df87f639cbfd06af5aa682f4cb21675a5b1f03cf",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/68ca4889e6508685a397b7fa38e10d53ab5ce273",
+      "width" : 64
+    } ],
+    "name" : "Real Time",
+    "release_date" : "2005",
+    "release_date_precision" : "year",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:3kM3Njr2PBRtCDY5xu1QcP"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1qMgGon16RoDAfujk41Em0",
+    "id" : "1qMgGon16RoDAfujk41Em0",
+    "name" : "Darrell Scott",
+    "type" : "artist",
+    "uri" : "spotify:artist:1qMgGon16RoDAfujk41Em0"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2nJQCVut36kUzDfy3eUZCM",
+    "id" : "2nJQCVut36kUzDfy3eUZCM",
+    "name" : "Tim O'Brien",
+    "type" : "artist",
+    "uri" : "spotify:artist:2nJQCVut36kUzDfy3eUZCM"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 216586,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFLR0500010"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4GsN56PtulWa8EtJNKcpaj"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4GsN56PtulWa8EtJNKcpaj",
+  "id" : "4GsN56PtulWa8EtJNKcpaj",
+  "is_local" : false,
+  "name" : "Long Time Gone",
+  "popularity" : 38,
+  "preview_url" : "https://p.scdn.co/mp3-preview/83741b06aacfc55ec9c5632cb8dbf14dcd95b43f?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 10,
+  "type" : "track",
+  "uri" : "spotify:track:4GsN56PtulWa8EtJNKcpaj"
+}

@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ReHC2jB2DGoPbMYhzuFuO",
+      "id" : "1ReHC2jB2DGoPbMYhzuFuO",
+      "name" : "Yonder Mountain String Band",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ReHC2jB2DGoPbMYhzuFuO"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5yxDETHx404pEj3nOH8xPN"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5yxDETHx404pEj3nOH8xPN",
+    "id" : "5yxDETHx404pEj3nOH8xPN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/af1bb9523ed03846e724bfa3cabea81fffbd787c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2309705653b9429ed1d0b64806fb1b84770e4184",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/a2f3baaa98217be0a1f051a83900b5117ab35300",
+      "width" : 64
+    } ],
+    "name" : "Elevation",
+    "release_date" : "1999-03-12",
+    "release_date_precision" : "day",
+    "total_tracks" : 15,
+    "type" : "album",
+    "uri" : "spotify:album:5yxDETHx404pEj3nOH8xPN"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1ReHC2jB2DGoPbMYhzuFuO",
+    "id" : "1ReHC2jB2DGoPbMYhzuFuO",
+    "name" : "Yonder Mountain String Band",
+    "type" : "artist",
+    "uri" : "spotify:artist:1ReHC2jB2DGoPbMYhzuFuO"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 271080,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USEPY0610030"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/67bc0k8oAuIprA3X0xzWdQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/67bc0k8oAuIprA3X0xzWdQ",
+  "id" : "67bc0k8oAuIprA3X0xzWdQ",
+  "is_local" : false,
+  "name" : "Half Moon Rising",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/7ccbf5b424d85727c1187aaf87615c90226cd58b?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:67bc0k8oAuIprA3X0xzWdQ"
+}

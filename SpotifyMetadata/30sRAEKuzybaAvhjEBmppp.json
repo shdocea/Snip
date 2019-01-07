@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33bzrYoIWLx5uox3y0VtHn",
+      "id" : "33bzrYoIWLx5uox3y0VtHn",
+      "name" : "Greensky Bluegrass",
+      "type" : "artist",
+      "uri" : "spotify:artist:33bzrYoIWLx5uox3y0VtHn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7zMe3emFwC6oO2TltnJIqF"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7zMe3emFwC6oO2TltnJIqF",
+    "id" : "7zMe3emFwC6oO2TltnJIqF",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8fb1688fa8519794d7c46dcfe47330790a9df3c3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f3898c7fc39f70be975959d1bc81aff1d63cfafd",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/d951aae100d4e52f9572d7d56838c290832b8861",
+      "width" : 64
+    } ],
+    "name" : "All Access: Volume One",
+    "release_date" : "2010-02-09",
+    "release_date_precision" : "day",
+    "total_tracks" : 26,
+    "type" : "album",
+    "uri" : "spotify:album:7zMe3emFwC6oO2TltnJIqF"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33bzrYoIWLx5uox3y0VtHn",
+    "id" : "33bzrYoIWLx5uox3y0VtHn",
+    "name" : "Greensky Bluegrass",
+    "type" : "artist",
+    "uri" : "spotify:artist:33bzrYoIWLx5uox3y0VtHn"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 338240,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "uscgh1044629"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/30sRAEKuzybaAvhjEBmppp"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/30sRAEKuzybaAvhjEBmppp",
+  "id" : "30sRAEKuzybaAvhjEBmppp",
+  "is_local" : false,
+  "name" : "Time > Breathe Reprise >",
+  "popularity" : 55,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e09bd30ea759f3ed333848d2a017e69c5f84c3f1?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 5,
+  "type" : "track",
+  "uri" : "spotify:track:30sRAEKuzybaAvhjEBmppp"
+}

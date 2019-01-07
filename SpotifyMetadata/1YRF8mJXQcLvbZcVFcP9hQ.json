@@ -1,0 +1,87 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jkhwa4XMe9XSt1r0AWNqD",
+      "id" : "7jkhwa4XMe9XSt1r0AWNqD",
+      "name" : "Edgar Meyer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jkhwa4XMe9XSt1r0AWNqD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    } ],
+    "available_markets" : [ "AE", "AR", "BH", "BO", "BR", "CA", "CL", "CO", "CR", "DK", "DO", "DZ", "EC", "EG", "FI", "FR", "GB", "GT", "HN", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "MA", "MX", "NI", "NO", "NZ", "OM", "PA", "PE", "PY", "QA", "SA", "SE", "SV", "TN", "TR", "US", "UY", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3w0kOS9blSpQKpZ9NFgsgR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3w0kOS9blSpQKpZ9NFgsgR",
+    "id" : "3w0kOS9blSpQKpZ9NFgsgR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/23f83e320763d1197a06255a38ce13756814fcac",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2f14915377f851609e180ef4d282c78a3b618de6",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ad2ddb6e37db7588596733d183f650b67fe44273",
+      "width" : 64
+    } ],
+    "name" : "Edgar Meyer and Chris Thile",
+    "release_date" : "2008-09-12",
+    "release_date_precision" : "day",
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:3w0kOS9blSpQKpZ9NFgsgR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jkhwa4XMe9XSt1r0AWNqD",
+    "id" : "7jkhwa4XMe9XSt1r0AWNqD",
+    "name" : "Edgar Meyer",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jkhwa4XMe9XSt1r0AWNqD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  } ],
+  "available_markets" : [ "AE", "AR", "BH", "BO", "BR", "CA", "CL", "CO", "CR", "DK", "DO", "DZ", "EC", "EG", "FI", "FR", "GB", "GT", "HN", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "MA", "MX", "NI", "NO", "NZ", "OM", "PA", "PE", "PY", "QA", "SA", "SE", "SV", "TN", "TR", "US", "UY", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 249533,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO10807735"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1YRF8mJXQcLvbZcVFcP9hQ"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1YRF8mJXQcLvbZcVFcP9hQ",
+  "id" : "1YRF8mJXQcLvbZcVFcP9hQ",
+  "is_local" : false,
+  "name" : "This Is the Pig",
+  "popularity" : 9,
+  "preview_url" : "https://p.scdn.co/mp3-preview/74e98309abea7bc8d7fc96be327bccb38e6acdf7?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:1YRF8mJXQcLvbZcVFcP9hQ"
+}

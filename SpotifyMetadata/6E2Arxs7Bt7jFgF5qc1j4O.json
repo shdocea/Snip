@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7gsslWrdzzkV3jf7cAws95"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7gsslWrdzzkV3jf7cAws95",
+      "id" : "7gsslWrdzzkV3jf7cAws95",
+      "name" : "EMEFE",
+      "type" : "artist",
+      "uri" : "spotify:artist:7gsslWrdzzkV3jf7cAws95"
+    } ],
+    "available_markets" : [ ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3zxr8iIaUMnFUettNN84ii"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3zxr8iIaUMnFUettNN84ii",
+    "id" : "3zxr8iIaUMnFUettNN84ii",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a7a105d34e20dfa3c4d27bf3260cf23d5c3d2105",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/94f695396b50e3f153bd0b5175e4436c772c5102",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/673290280eadf6a52b7905fed0c3552d09cfc0ff",
+      "width" : 64
+    } ],
+    "name" : "Good Future",
+    "release_date" : "2012-07-06",
+    "release_date_precision" : "day",
+    "total_tracks" : 9,
+    "type" : "album",
+    "uri" : "spotify:album:3zxr8iIaUMnFUettNN84ii"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7gsslWrdzzkV3jf7cAws95"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7gsslWrdzzkV3jf7cAws95",
+    "id" : "7gsslWrdzzkV3jf7cAws95",
+    "name" : "EMEFE",
+    "type" : "artist",
+    "uri" : "spotify:artist:7gsslWrdzzkV3jf7cAws95"
+  } ],
+  "available_markets" : [ ],
+  "disc_number" : 1,
+  "duration_ms" : 386506,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMP471200002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6E2Arxs7Bt7jFgF5qc1j4O"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6E2Arxs7Bt7jFgF5qc1j4O",
+  "id" : "6E2Arxs7Bt7jFgF5qc1j4O",
+  "is_local" : false,
+  "name" : "Do Your Dance",
+  "popularity" : 0,
+  "preview_url" : null,
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:6E2Arxs7Bt7jFgF5qc1j4O"
+}

@@ -1,0 +1,87 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jkhwa4XMe9XSt1r0AWNqD",
+      "id" : "7jkhwa4XMe9XSt1r0AWNqD",
+      "name" : "Edgar Meyer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jkhwa4XMe9XSt1r0AWNqD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6ZM5Y5MhrciBtnCWmYoq6g"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6ZM5Y5MhrciBtnCWmYoq6g",
+    "id" : "6ZM5Y5MhrciBtnCWmYoq6g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0e640b13fc53c17dcfc176bac4448e4edbd987c8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/0d2a7c7fbb169c250e3c49ecc1e0b3941737863f",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/bafd7fbb09cbc966a13ccedd94f299e867e6f6d4",
+      "width" : 64
+    } ],
+    "name" : "Bass & Mandolin",
+    "release_date" : "2014-09-09",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:6ZM5Y5MhrciBtnCWmYoq6g"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jkhwa4XMe9XSt1r0AWNqD",
+    "id" : "7jkhwa4XMe9XSt1r0AWNqD",
+    "name" : "Edgar Meyer",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jkhwa4XMe9XSt1r0AWNqD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 270693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USNO11400611"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/39kGQXlNBbq7W5zTTpmUKy"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/39kGQXlNBbq7W5zTTpmUKy",
+  "id" : "39kGQXlNBbq7W5zTTpmUKy",
+  "is_local" : false,
+  "name" : "Why Only One?",
+  "popularity" : 27,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a908204d9df5d0c9c633edad3abd7aaea8983a69?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:39kGQXlNBbq7W5zTTpmUKy"
+}

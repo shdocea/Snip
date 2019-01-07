@@ -1,0 +1,123 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7jkhwa4XMe9XSt1r0AWNqD",
+      "id" : "7jkhwa4XMe9XSt1r0AWNqD",
+      "name" : "Edgar Meyer",
+      "type" : "artist",
+      "uri" : "spotify:artist:7jkhwa4XMe9XSt1r0AWNqD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/53pmIwVqcTM68qW6PVhjW2",
+      "id" : "53pmIwVqcTM68qW6PVhjW2",
+      "name" : "Stuart Duncan",
+      "type" : "artist",
+      "uri" : "spotify:artist:53pmIwVqcTM68qW6PVhjW2"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+      "id" : "5Dl3HXZjG6ZOWT5cV375lk",
+      "name" : "Yo-Yo Ma",
+      "type" : "artist",
+      "uri" : "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/7tSgsZ1ATPHDzUOqAmapTZ"
+    },
+    "href" : "https://api.spotify.com/v1/albums/7tSgsZ1ATPHDzUOqAmapTZ",
+    "id" : "7tSgsZ1ATPHDzUOqAmapTZ",
+    "images" : [ {
+      "height" : 582,
+      "url" : "https://i.scdn.co/image/58f1b0079dd6e1db84dcecc90e21f308b4f4177e",
+      "width" : 640
+    }, {
+      "height" : 273,
+      "url" : "https://i.scdn.co/image/6df43e6150bd495a14bfaa21e5a0a51bbe5d7e20",
+      "width" : 300
+    }, {
+      "height" : 58,
+      "url" : "https://i.scdn.co/image/91d0e734ca3ccace08d7a4f3601fa833f6c1ab4e",
+      "width" : 64
+    } ],
+    "name" : "The Goat Rodeo Sessions",
+    "release_date" : "2011-10-21",
+    "release_date_precision" : "day",
+    "total_tracks" : 11,
+    "type" : "album",
+    "uri" : "spotify:album:7tSgsZ1ATPHDzUOqAmapTZ"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+    },
+    "href" : "https://api.spotify.com/v1/artists/53pmIwVqcTM68qW6PVhjW2",
+    "id" : "53pmIwVqcTM68qW6PVhjW2",
+    "name" : "Stuart Duncan",
+    "type" : "artist",
+    "uri" : "spotify:artist:53pmIwVqcTM68qW6PVhjW2"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7jkhwa4XMe9XSt1r0AWNqD",
+    "id" : "7jkhwa4XMe9XSt1r0AWNqD",
+    "name" : "Edgar Meyer",
+    "type" : "artist",
+    "uri" : "spotify:artist:7jkhwa4XMe9XSt1r0AWNqD"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5Dl3HXZjG6ZOWT5cV375lk",
+    "id" : "5Dl3HXZjG6ZOWT5cV375lk",
+    "name" : "Yo-Yo Ma",
+    "type" : "artist",
+    "uri" : "spotify:artist:5Dl3HXZjG6ZOWT5cV375lk"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 447666,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSM11105059"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/4iGmKntLtyPe18ZOzMC2FL"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/4iGmKntLtyPe18ZOzMC2FL",
+  "id" : "4iGmKntLtyPe18ZOzMC2FL",
+  "is_local" : false,
+  "name" : "Less is Moi",
+  "popularity" : 44,
+  "preview_url" : "https://p.scdn.co/mp3-preview/3afbfacfcd637caa1813b649958577c2a4a502f2?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 7,
+  "type" : "track",
+  "uri" : "spotify:track:4iGmKntLtyPe18ZOzMC2FL"
+}

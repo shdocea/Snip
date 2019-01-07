@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/33bzrYoIWLx5uox3y0VtHn",
+      "id" : "33bzrYoIWLx5uox3y0VtHn",
+      "name" : "Greensky Bluegrass",
+      "type" : "artist",
+      "uri" : "spotify:artist:33bzrYoIWLx5uox3y0VtHn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3x8YRMOs6qp9benbfuwNG7"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3x8YRMOs6qp9benbfuwNG7",
+    "id" : "3x8YRMOs6qp9benbfuwNG7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/51a7f1cbe1c843d771d387f19f6220f3cb86d982",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4011dbbe75839085be297664ea4d7dba343fa971",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/62bf7547bb6dcf23affee9cdd80f1d306fe35317",
+      "width" : 64
+    } ],
+    "name" : "Live At Bells",
+    "release_date" : "2007-01-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:3x8YRMOs6qp9benbfuwNG7"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+    },
+    "href" : "https://api.spotify.com/v1/artists/33bzrYoIWLx5uox3y0VtHn",
+    "id" : "33bzrYoIWLx5uox3y0VtHn",
+    "name" : "Greensky Bluegrass",
+    "type" : "artist",
+    "uri" : "spotify:artist:33bzrYoIWLx5uox3y0VtHn"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 282253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "usl4q0775564"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/45RLvNvLYoSPTuTebvEPLK"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/45RLvNvLYoSPTuTebvEPLK",
+  "id" : "45RLvNvLYoSPTuTebvEPLK",
+  "is_local" : false,
+  "name" : "Road to Nowhere",
+  "popularity" : 45,
+  "preview_url" : "https://p.scdn.co/mp3-preview/6dcbfe88b55b34ff52b73882a8a613dc37574f38?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:45RLvNvLYoSPTuTebvEPLK"
+}

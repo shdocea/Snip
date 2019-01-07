@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3uaHfXYx9Fh4HjqMbrWn5S",
+      "id" : "3uaHfXYx9Fh4HjqMbrWn5S",
+      "name" : "Joshua Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3uaHfXYx9Fh4HjqMbrWn5S"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2S2GxOo63Vh3EqPU2BpKGO"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2S2GxOo63Vh3EqPU2BpKGO",
+    "id" : "2S2GxOo63Vh3EqPU2BpKGO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d0a26b002ef0ccde3df9feb662e112ba4c67f0ab",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/49ce8972a97e4f38090dc4aff1f2ad887f25d77c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/14f6afe6b6056c4031891c7b8dae6d2d1b2b9111",
+      "width" : 64
+    } ],
+    "name" : "Beyond",
+    "release_date" : "2000-04-04",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:2S2GxOo63Vh3EqPU2BpKGO"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3uaHfXYx9Fh4HjqMbrWn5S",
+    "id" : "3uaHfXYx9Fh4HjqMbrWn5S",
+    "name" : "Joshua Redman",
+    "type" : "artist",
+    "uri" : "spotify:artist:3uaHfXYx9Fh4HjqMbrWn5S"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 660400,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB10000116"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3MYojP082i6SdgmUxZWgMu"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3MYojP082i6SdgmUxZWgMu",
+  "id" : "3MYojP082i6SdgmUxZWgMu",
+  "is_local" : false,
+  "name" : "Twilight...And Beyond",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/bf629d78ca9bd095c585178d43fca9c43cb4b462?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 6,
+  "type" : "track",
+  "uri" : "spotify:track:3MYojP082i6SdgmUxZWgMu"
+}

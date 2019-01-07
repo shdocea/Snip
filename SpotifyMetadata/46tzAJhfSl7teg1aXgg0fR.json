@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+      "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+      "name" : "Chris Thile",
+      "type" : "artist",
+      "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+    } ],
+    "available_markets" : [ "AT", "AU", "BE", "CA", "CH", "CZ", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "MX", "NL", "NO", "NZ", "PL", "PT", "SE", "US" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3UVP898xdmvyLVE1OLCLh4",
+    "id" : "3UVP898xdmvyLVE1OLCLh4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/78fe0ddc9d8a12f56b38c48586b4babdc5427e1e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/16d89333cf18ec581335d2c0f5bdafae1f7fc4ce",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f75a6d94430f88f951ecd078dcda2855f01f6471",
+      "width" : 64
+    } ],
+    "name" : "How To Grow A Woman From The Ground",
+    "release_date" : "2006-01-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 14,
+    "type" : "album",
+    "uri" : "spotify:album:3UVP898xdmvyLVE1OLCLh4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1dyGPAYZZHHW6WIqwKN5QF",
+    "id" : "1dyGPAYZZHHW6WIqwKN5QF",
+    "name" : "Chris Thile",
+    "type" : "artist",
+    "uri" : "spotify:artist:1dyGPAYZZHHW6WIqwKN5QF"
+  } ],
+  "available_markets" : [ "AT", "AU", "BE", "CA", "CH", "CZ", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "MX", "NL", "NO", "NZ", "PL", "PT", "SE", "US" ],
+  "disc_number" : 1,
+  "duration_ms" : 246693,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USSH50600387"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/46tzAJhfSl7teg1aXgg0fR"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/46tzAJhfSl7teg1aXgg0fR",
+  "id" : "46tzAJhfSl7teg1aXgg0fR",
+  "is_local" : false,
+  "name" : "The Beekeeper",
+  "popularity" : 19,
+  "preview_url" : null,
+  "track_number" : 8,
+  "type" : "track",
+  "uri" : "spotify:track:46tzAJhfSl7teg1aXgg0fR"
+}

@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/78NDaMzmcDKjt7mkXs7AuG",
+      "id" : "78NDaMzmcDKjt7mkXs7AuG",
+      "name" : "Benny Golson",
+      "type" : "artist",
+      "uri" : "spotify:artist:78NDaMzmcDKjt7mkXs7AuG"
+    } ],
+    "available_markets" : [ "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6F2T22yUsmFWvnETgGBB1y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6F2T22yUsmFWvnETgGBB1y",
+    "id" : "6F2T22yUsmFWvnETgGBB1y",
+    "images" : [ {
+      "height" : 609,
+      "url" : "https://i.scdn.co/image/7882bf54a1abf15f73035585b2a0ee7ed8182fe8",
+      "width" : 640
+    }, {
+      "height" : 285,
+      "url" : "https://i.scdn.co/image/f01c61c6b114dc89a38f67c1c068d58b030075ae",
+      "width" : 300
+    }, {
+      "height" : 61,
+      "url" : "https://i.scdn.co/image/d01b9fbe0c467a555bf16620ebbb72d15727dd3a",
+      "width" : 64
+    } ],
+    "name" : "Gone With Golson",
+    "release_date" : "1994-01-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 6,
+    "type" : "album",
+    "uri" : "spotify:album:6F2T22yUsmFWvnETgGBB1y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+    },
+    "href" : "https://api.spotify.com/v1/artists/78NDaMzmcDKjt7mkXs7AuG",
+    "id" : "78NDaMzmcDKjt7mkXs7AuG",
+    "name" : "Benny Golson",
+    "type" : "artist",
+    "uri" : "spotify:artist:78NDaMzmcDKjt7mkXs7AuG"
+  } ],
+  "available_markets" : [ "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 290173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFI85900505"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wqbJHHd0eUYQh0TLklWk3"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wqbJHHd0eUYQh0TLklWk3",
+  "id" : "2wqbJHHd0eUYQh0TLklWk3",
+  "is_local" : false,
+  "name" : "Stacatto Swing",
+  "popularity" : 31,
+  "preview_url" : null,
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2wqbJHHd0eUYQh0TLklWk3"
+}

@@ -1,0 +1,78 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6AEIKVwB27miPI3uJxM4Dw",
+      "id" : "6AEIKVwB27miPI3uJxM4Dw",
+      "name" : "Pickin' On Series",
+      "type" : "artist",
+      "uri" : "spotify:artist:6AEIKVwB27miPI3uJxM4Dw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3hewWfO0hKXbAFfcsmpYk5"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3hewWfO0hKXbAFfcsmpYk5",
+    "id" : "3hewWfO0hKXbAFfcsmpYk5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/36f0973a9aec532cd3a45e79d75f3de7540e9ddb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/65cfb1cd34f08c7512943733358a2656ad20bb59",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/691032e858b747f4eddebe2af8a128954ae039fc",
+      "width" : 64
+    } ],
+    "name" : "Pickin' on Modest Mouse",
+    "release_date" : "2007-04-24",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:3hewWfO0hKXbAFfcsmpYk5"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6AEIKVwB27miPI3uJxM4Dw",
+    "id" : "6AEIKVwB27miPI3uJxM4Dw",
+    "name" : "Pickin' On Series",
+    "type" : "artist",
+    "uri" : "spotify:artist:6AEIKVwB27miPI3uJxM4Dw"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1v3CnxHAtLMfZW8v5dGj7t",
+    "id" : "1v3CnxHAtLMfZW8v5dGj7t",
+    "name" : "Iron Horse",
+    "type" : "artist",
+    "uri" : "spotify:artist:1v3CnxHAtLMfZW8v5dGj7t"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 253640,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US25T0889811"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/6XvMLLAyNZaAXFvEpFDH4M"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/6XvMLLAyNZaAXFvEpFDH4M",
+  "id" : "6XvMLLAyNZaAXFvEpFDH4M",
+  "is_local" : false,
+  "name" : "Float On",
+  "popularity" : 32,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4ade6f684ae5b4353708ffa50e3e3a6dcf752e65?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:6XvMLLAyNZaAXFvEpFDH4M"
+}

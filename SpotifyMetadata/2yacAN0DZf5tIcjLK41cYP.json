@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TRdPkXMabkeuB8JautkEf",
+      "id" : "0TRdPkXMabkeuB8JautkEf",
+      "name" : "Julian Lage & Chris Eldridge",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TRdPkXMabkeuB8JautkEf"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6FouHmrNdwxJOiSafngC3Y"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6FouHmrNdwxJOiSafngC3Y",
+    "id" : "6FouHmrNdwxJOiSafngC3Y",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2acda4fd95846c358f3d6f00dadec05502c516ab",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/83dad7895a8698cacd9ec43605c6cdd0e83daca7",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/7f90738dac757258977a7bb0381090dd4c7e41c1",
+      "width" : 64
+    } ],
+    "name" : "Mount Royal",
+    "release_date" : "2017-02-24",
+    "release_date_precision" : "day",
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:6FouHmrNdwxJOiSafngC3Y"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0TRdPkXMabkeuB8JautkEf",
+    "id" : "0TRdPkXMabkeuB8JautkEf",
+    "name" : "Julian Lage & Chris Eldridge",
+    "type" : "artist",
+    "uri" : "spotify:artist:0TRdPkXMabkeuB8JautkEf"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 286706,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USFVZ1700001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2yacAN0DZf5tIcjLK41cYP"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2yacAN0DZf5tIcjLK41cYP",
+  "id" : "2yacAN0DZf5tIcjLK41cYP",
+  "is_local" : false,
+  "name" : "Bone Collector",
+  "popularity" : 43,
+  "preview_url" : "https://p.scdn.co/mp3-preview/8e875ee5e444533bfde75a23a3881c495db1011d?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2yacAN0DZf5tIcjLK41cYP"
+}

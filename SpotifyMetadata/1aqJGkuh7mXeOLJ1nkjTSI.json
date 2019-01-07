@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/49zXTngyUTielHTbbH5YKs",
+      "id" : "49zXTngyUTielHTbbH5YKs",
+      "name" : "Roy Hargrove",
+      "type" : "artist",
+      "uri" : "spotify:artist:49zXTngyUTielHTbbH5YKs"
+    } ],
+    "available_markets" : [ ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0x0jAgEpIbFhWsL3Uox5lI"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0x0jAgEpIbFhWsL3Uox5lI",
+    "id" : "0x0jAgEpIbFhWsL3Uox5lI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/532707c6cac5b8809270a014e3d341765cf7310d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/51ac376e845edad057b64cd8f7920a3b97ecccc1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2b5dc1c6183342c540a9e4fc46b3749a39575135",
+      "width" : 64
+    } ],
+    "name" : "Earfood",
+    "release_date" : "2008-01-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:0x0jAgEpIbFhWsL3Uox5lI"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+    },
+    "href" : "https://api.spotify.com/v1/artists/49zXTngyUTielHTbbH5YKs",
+    "id" : "49zXTngyUTielHTbbH5YKs",
+    "name" : "Roy Hargrove",
+    "type" : "artist",
+    "uri" : "spotify:artist:49zXTngyUTielHTbbH5YKs"
+  } ],
+  "available_markets" : [ ],
+  "disc_number" : 1,
+  "duration_ms" : 278626,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBUM70805366"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1aqJGkuh7mXeOLJ1nkjTSI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1aqJGkuh7mXeOLJ1nkjTSI",
+  "id" : "1aqJGkuh7mXeOLJ1nkjTSI",
+  "is_local" : false,
+  "name" : "Strasbourg / St. Denis",
+  "popularity" : 2,
+  "preview_url" : null,
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:1aqJGkuh7mXeOLJ1nkjTSI"
+}

@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7pQXfjCzKMCrcQnp9TAn3z",
+      "id" : "7pQXfjCzKMCrcQnp9TAn3z",
+      "name" : "The Westerlies",
+      "type" : "artist",
+      "uri" : "spotify:artist:7pQXfjCzKMCrcQnp9TAn3z"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5XvyRInes7vehgj7jW4Yzm"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5XvyRInes7vehgj7jW4Yzm",
+    "id" : "5XvyRInes7vehgj7jW4Yzm",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4d853ef55f67483bfb7b06e4b483f405fbec449d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/388ec5d254f083fbb3bb2c19bdf67877c023f430",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/f40d7a66df5663ea93773c01ef63fb1ea3eef1cf",
+      "width" : 64
+    } ],
+    "name" : "The Westerlies",
+    "release_date" : "2016-10-07",
+    "release_date_precision" : "day",
+    "total_tracks" : 17,
+    "type" : "album",
+    "uri" : "spotify:album:5XvyRInes7vehgj7jW4Yzm"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7pQXfjCzKMCrcQnp9TAn3z",
+    "id" : "7pQXfjCzKMCrcQnp9TAn3z",
+    "name" : "The Westerlies",
+    "type" : "artist",
+    "uri" : "spotify:artist:7pQXfjCzKMCrcQnp9TAn3z"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 158253,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "CAS231600001"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1LeYKdCsUBZfjsmFrxWKTU"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1LeYKdCsUBZfjsmFrxWKTU",
+  "id" : "1LeYKdCsUBZfjsmFrxWKTU",
+  "is_local" : false,
+  "name" : "A Nearer Sun",
+  "popularity" : 41,
+  "preview_url" : "https://p.scdn.co/mp3-preview/86464e713231d6b0868d45eb0f6e0218d964c969?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1LeYKdCsUBZfjsmFrxWKTU"
+}

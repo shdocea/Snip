@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3uaHfXYx9Fh4HjqMbrWn5S",
+      "id" : "3uaHfXYx9Fh4HjqMbrWn5S",
+      "name" : "Joshua Redman",
+      "type" : "artist",
+      "uri" : "spotify:artist:3uaHfXYx9Fh4HjqMbrWn5S"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4vImHwVHl2iu7hKG18j4gu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4vImHwVHl2iu7hKG18j4gu",
+    "id" : "4vImHwVHl2iu7hKG18j4gu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/46ef653ac32695a1f62c4c87998ad9f42c41ad41",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/911dcae601185bf1a8d86cdaea29e0c95cb98d5d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/9c6a7cecd025d37e15ba566072da33beaccdcbd7",
+      "width" : 64
+    } ],
+    "name" : "Freedom In The Groove",
+    "release_date" : "1996-09-24",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:4vImHwVHl2iu7hKG18j4gu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3uaHfXYx9Fh4HjqMbrWn5S",
+    "id" : "3uaHfXYx9Fh4HjqMbrWn5S",
+    "name" : "Joshua Redman",
+    "type" : "artist",
+    "uri" : "spotify:artist:3uaHfXYx9Fh4HjqMbrWn5S"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 336573,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USWB19600359"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5dMGTMxOOp4JDCI0ImTvRI"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5dMGTMxOOp4JDCI0ImTvRI",
+  "id" : "5dMGTMxOOp4JDCI0ImTvRI",
+  "is_local" : false,
+  "name" : "Hide And Seek",
+  "popularity" : 30,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ff892105cfa88625d75f4cf4190570ddcd1a368d?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5dMGTMxOOp4JDCI0ImTvRI"
+}

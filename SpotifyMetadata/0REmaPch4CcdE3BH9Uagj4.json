@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+      },
+      "href" : "https://api.spotify.com/v1/artists/14RXohtx6NiBGFTW8IdmAK",
+      "id" : "14RXohtx6NiBGFTW8IdmAK",
+      "name" : "John Scofield",
+      "type" : "artist",
+      "uri" : "spotify:artist:14RXohtx6NiBGFTW8IdmAK"
+    } ],
+    "available_markets" : [ ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3FC4qyLwPcRfnhq6nxyznE"
+    },
+    "href" : "https://api.spotify.com/v1/albums/3FC4qyLwPcRfnhq6nxyznE",
+    "id" : "3FC4qyLwPcRfnhq6nxyznE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/63f9d29ba01e253e3313d360595daed7aad08d17",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/6bc0c29acc43e52267c1ed089de3a31f4e1ccb8e",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/2d986468a9c13e793ee61fc8b5b266dd93eafffa",
+      "width" : 64
+    } ],
+    "name" : "A Go Go",
+    "release_date" : "1998-01-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "type" : "album",
+    "uri" : "spotify:album:3FC4qyLwPcRfnhq6nxyznE"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+    },
+    "href" : "https://api.spotify.com/v1/artists/14RXohtx6NiBGFTW8IdmAK",
+    "id" : "14RXohtx6NiBGFTW8IdmAK",
+    "name" : "John Scofield",
+    "type" : "artist",
+    "uri" : "spotify:artist:14RXohtx6NiBGFTW8IdmAK"
+  } ],
+  "available_markets" : [ ],
+  "disc_number" : 1,
+  "duration_ms" : 396173,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USPR39800022"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0REmaPch4CcdE3BH9Uagj4"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0REmaPch4CcdE3BH9Uagj4",
+  "id" : "0REmaPch4CcdE3BH9Uagj4",
+  "is_local" : false,
+  "name" : "A Go Go",
+  "popularity" : 2,
+  "preview_url" : null,
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0REmaPch4CcdE3BH9Uagj4"
+}

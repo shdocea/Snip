@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7yTltkMBvChBkA86Tz8WfW",
+      "id" : "7yTltkMBvChBkA86Tz8WfW",
+      "name" : "The Infamous Stringdusters",
+      "type" : "artist",
+      "uri" : "spotify:artist:7yTltkMBvChBkA86Tz8WfW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/75VS0XhdE2fN6ccdGeCKDY"
+    },
+    "href" : "https://api.spotify.com/v1/albums/75VS0XhdE2fN6ccdGeCKDY",
+    "id" : "75VS0XhdE2fN6ccdGeCKDY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0c0f33038a9f29cb821d072d31b9f2319bbb3b2a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/2fc650df5dc6cd10aae60a69493c283031ba618a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/75817b170026e7f2b1d267ee86bcfd6aa925b02a",
+      "width" : 64
+    } ],
+    "name" : "Silver Sky",
+    "release_date" : "2012-03-13",
+    "release_date_precision" : "day",
+    "total_tracks" : 11,
+    "type" : "album",
+    "uri" : "spotify:album:75VS0XhdE2fN6ccdGeCKDY"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7yTltkMBvChBkA86Tz8WfW",
+    "id" : "7yTltkMBvChBkA86Tz8WfW",
+    "name" : "The Infamous Stringdusters",
+    "type" : "artist",
+    "uri" : "spotify:artist:7yTltkMBvChBkA86Tz8WfW"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 298148,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMU8F1100024"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2FQSGNFGue5t8M4q0NyB3J"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2FQSGNFGue5t8M4q0NyB3J",
+  "id" : "2FQSGNFGue5t8M4q0NyB3J",
+  "is_local" : false,
+  "name" : "Walking On The Moon",
+  "popularity" : 46,
+  "preview_url" : "https://p.scdn.co/mp3-preview/92d8f3a7371ee6e311e0df2738ace0790b81dbc4?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 11,
+  "type" : "track",
+  "uri" : "spotify:track:2FQSGNFGue5t8M4q0NyB3J"
+}

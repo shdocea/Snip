@@ -1,0 +1,87 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5bepW5vcdRzheNc0F8lHJ5",
+      "id" : "5bepW5vcdRzheNc0F8lHJ5",
+      "name" : "Esperanza Spalding",
+      "type" : "artist",
+      "uri" : "spotify:artist:5bepW5vcdRzheNc0F8lHJ5"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5dOs8cDC3Dib3LvhYfOeZf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5dOs8cDC3Dib3LvhYfOeZf",
+    "id" : "5dOs8cDC3Dib3LvhYfOeZf",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e666ed301a5048a7bda8a2bc9ed6a38724e90b03",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/658c16b8be0466dea8d4f490c975866992427b44",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/1909b5a16cc1ebb7cc36ca24810d8c1b47310c84",
+      "width" : 64
+    } ],
+    "name" : "Junjo",
+    "release_date" : "2006-04-04",
+    "release_date_precision" : "day",
+    "total_tracks" : 9,
+    "type" : "album",
+    "uri" : "spotify:album:5dOs8cDC3Dib3LvhYfOeZf"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5bepW5vcdRzheNc0F8lHJ5",
+    "id" : "5bepW5vcdRzheNc0F8lHJ5",
+    "name" : "Esperanza Spalding",
+    "type" : "artist",
+    "uri" : "spotify:artist:5bepW5vcdRzheNc0F8lHJ5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Dr6rtrDwimdo13y0Yja6o"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6Dr6rtrDwimdo13y0Yja6o",
+    "id" : "6Dr6rtrDwimdo13y0Yja6o",
+    "name" : "Francisco Mela",
+    "type" : "artist",
+    "uri" : "spotify:artist:6Dr6rtrDwimdo13y0Yja6o"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7hUIvu0Ug9wqqjtaoCtv1o",
+    "id" : "7hUIvu0Ug9wqqjtaoCtv1o",
+    "name" : "Aruan Ortiz",
+    "type" : "artist",
+    "uri" : "spotify:artist:7hUIvu0Ug9wqqjtaoCtv1o"
+  } ],
+  "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+  "disc_number" : 1,
+  "duration_ms" : 476840,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USA370654628"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2XY7HGbJvcPXoxt1P42awV"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2XY7HGbJvcPXoxt1P42awV",
+  "id" : "2XY7HGbJvcPXoxt1P42awV",
+  "is_local" : false,
+  "name" : "The Peacocks",
+  "popularity" : 26,
+  "preview_url" : "https://p.scdn.co/mp3-preview/627167f49f0f481b53efa0693c40b1511e40fa4a?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2XY7HGbJvcPXoxt1P42awV"
+}
